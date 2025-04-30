@@ -34,18 +34,18 @@ Data Science team    	Tokyo, Japan
 
 ## **Education and Certifications**
 
-・　**B.Sc. Computer Science:** University of Tokyo Denki, Japan. 	**2015–2019**
+* **B.Sc. Computer Science:** University of Tokyo Denki, Japan. 	**2015–2019**
 
 ## **Technologies and Languages**
 
-・　**Programming Languages:** Python (Advanced), R (Intermediate), SQL, Go, Java  
-・　**ML Frameworks:** Scikit-Learn, TensorFlow, PyTorch, Optuna, SHAP  
-・　**Cloud Platforms:** AWS (SageMaker, EC2, S3), GCP  
-・　**Data Tools:** dbt, Snowflake, Tableau, Weights & Biases, Git  
-・　**Core Competencies:** Machine Learning, Statistics, Data Structures & Algorithms, LLM, Project Management
+* **Programming Languages:** Python (Advanced), R (Intermediate), SQL, Go, Java  
+* **ML Frameworks:** Scikit-Learn, TensorFlow, PyTorch, Optuna, SHAP  
+* **Cloud Platforms:** AWS (SageMaker, EC2, S3), GCP  
+* **Data Tools:** dbt, Snowflake, Tableau, Weights & Biases, Git  
+* **Core Competencies:** Machine Learning, Statistics, Data Structures & Algorithms, LLM, Project Management
 
 ## **Qualifications**
 
-・　**Technical Skills:** Kaggle Expert([https://www.kaggle.com/yukio0201](https://www.kaggle.com/yukio0201)) (5 Silver, 4 Bronze Medals) (2024),  
+* **Technical Skills:** Kaggle Expert([https://www.kaggle.com/yukio0201](https://www.kaggle.com/yukio0201)) (5 Silver, 4 Bronze Medals) (2024),  
 			AWS Certified Machine Learning – Specialty (2021), Statistics Certification Level 2 (2020)  
-・　**Languages:**　	Japanese(Native) / English(B1)
+* **Languages:**　	Japanese(Native) / English(B1)
