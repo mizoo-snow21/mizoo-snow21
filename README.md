@@ -9,7 +9,7 @@ To leverage my extensive experience as a Data Scientist in the IT industry to co
 
 ## **Work Experience**
 
-**Data Scientist               	CyberAgent, Inc.**	**Feb 2022–Present**  
+**Data Scientist/Team Lead              CyberAgent, Inc.**	**Feb 2022–Present**  
 Product team 	Tokyo, Japan
 
 * Lead Data Science team to design, develop, and deploy ML models for ad targeting and bid control.  
