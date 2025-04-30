@@ -3,13 +3,13 @@ To leverage my extensive experience as a Data Scientist in the IT industry to co
 
 ## **Summary**
 
-* Results-driven Data Scientist and Team Lead with 6+ years of experience driving ML solutions in digital advertising (CyberAgent) and insurance (Tokyo Marine & Nichido Systems).  
+* Results-driven Data Scientist with 6+ years of experience driving ML solutions in digital advertising (CyberAgent) and insurance (Tokyo Marine & Nichido Systems).  
 * Achieved significant KPI improvements including 1.5× CTR/CVR lift, doubled budget utilization, and 90% workload reduction via Bayesian modeling, LightGBM, logistic regression, and LLM integration.  
 * Expert at translating business challenges into high-impact predictive analytics strategies to accelerate product growth and operational excellence.
 
 ## **Work Experience**
 
-**Data Scientist/Team Lead               	CyberAgent, Inc.**	**Feb 2022–Present**  
+**Data Scientist               	CyberAgent, Inc.**	**Feb 2022–Present**  
 Product team 	Tokyo, Japan
 
 * Lead Data Science team to design, develop, and deploy ML models for ad targeting and bid control.  
@@ -46,6 +46,6 @@ Data Science team    	Tokyo, Japan
 
 ## **Qualifications**
 
-・　**Technical Skills:** 	Kaggle Expert([https://www.kaggle.com/yukio0201](https://www.kaggle.com/yukio0201)) (5 Silver, 4 Bronze Medals) (2024),  
-			AWS Certified　Machine Learning – Specialty (2021), Statistics Certification Level 2 (2020)  
+・　**Technical Skills:** Kaggle Expert([https://www.kaggle.com/yukio0201](https://www.kaggle.com/yukio0201)) (5 Silver, 4 Bronze Medals) (2024),  
+			AWS Certified Machine Learning – Specialty (2021), Statistics Certification Level 2 (2020)  
 ・　**Languages:**　	Japanese(Native) / English(B1)
