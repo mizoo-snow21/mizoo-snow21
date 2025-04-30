@@ -1,8 +1,3 @@
-
-
-| Tokyo, Japan[envpypy3\_atom21@outlook.jp](mailto:envpypy3_atom21@outlook.jp) | Yukihiro Mizoguchi | [www.linkedin.com/in/ymizoguchi](http://www.linkedin.com/in/ymizoguchi)[https://github.com/mizoo-snow21](https://github.com/mizoo-snow21)  |
-| :---- | :---: | ----: |
-
 **Objective**  
 To leverage my extensive experience as a Data Scientist in the IT industry to contribute to the growth and development of data-driven products, driving business success through innovative solutions and comprehensive data analysis.
 
