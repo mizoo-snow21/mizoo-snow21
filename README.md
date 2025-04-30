@@ -1,7 +1,7 @@
-**Objective**  
+## **Objective**  
 To leverage my extensive experience as a Data Scientist in the IT industry to contribute to the growth and development of data-driven products, driving business success through innovative solutions and comprehensive data analysis.
 
-**Summary**
+## **Summary**
 
 * Results-driven Data Scientist and Team Lead with 6+ years of experience driving ML solutions in digital advertising (CyberAgent) and insurance (Tokyo Marine & Nichido Systems).  
 * Achieved significant KPI improvements including 1.5× CTR/CVR lift, doubled budget utilization, and 90% workload reduction via Bayesian modeling, LightGBM, logistic regression, and LLM integration.  
